@@ -2,7 +2,7 @@
 
 __Random-Identity__
 
-Générateur d'identité aléatoire : où l'on retrouve le nom , prénom , âge , métier , salaire , adresse ect d'un nombre de personne 
+Ce projet est un générateur de fausse identité aléatoire : où l'on retrouve le nom, prénom, âge, métier, salaire, adresse etc d'un nombre de personnes.
 
 (projet pas encore finit ) 
 amélioration avenir : instauration d'une base de donnée , amélioration du front .
